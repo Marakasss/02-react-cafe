@@ -1,3 +1,5 @@
 body {
-  background-color: #e68628;
+  background-image: url("../public/coffee-mugs-pale-white-brown-wooden-textured-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
