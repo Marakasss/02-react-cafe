@@ -1,24 +1,28 @@
 .container {
-  padding: 32px 24px;
-  background-color: #ffffff;
+  padding: 12px 24px;
   border: 0px solid #e1e4e8;
   border-radius: 4px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
-  background-color: #71170e;
 }
 
 .title {
   margin: 0;
-  font-size: 36px;
-  color: #e9daaf;
-  font-weight: 600;
-  margin-bottom: 16px;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-size: 48px;
+  color: #cbeec7;
+  font-weight: 100;
+  letter-spacing: 0.08em;
+  margin-bottom: 32px;
 }
 
 .description {
   margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.06em;
   font-size: 16px;
-  color: #e9daaf;
+  color: #cbeec7;
   max-width: 600px;
   line-height: 1.6;
 }
